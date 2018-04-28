@@ -1,15 +1,17 @@
 # Exploring next.js
 
+Exploring the possibilities of next.js.
+
 ### Development
 
-Start a local server powered by next.js.
+Start a local dev server powered by next.js.
 
 ```bash
 $ npm run dev
 ```
 
-Build a static site to `/docs` for GitHub pages:
+### Production
 
 ```bash
-$ npm run build
+$ npm start
 ```
