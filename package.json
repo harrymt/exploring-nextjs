@@ -1,0 +1,27 @@
+{
+  "name": "exploring-nextjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "dev": "next",
+      "build": "next build docs",
+      "start": "next start"
+  },
+  "dependencies": {
+    "next": "^5.1.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrymt/exploring-nextjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrymt/exploring-nextjs/issues"
+  },
+  "homepage": "https://github.com/harrymt/exploring-nextjs#readme"
+}
