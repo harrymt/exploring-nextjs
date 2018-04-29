@@ -1,6 +1,6 @@
 # Exploring next.js
 
-Exploring the possibilities of next.js.
+Exploring the possibilities of next.js for server rendered React apps.
 
 ### Development
 
